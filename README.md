@@ -18,7 +18,6 @@ From teaching middle school to coding full-stack applications, I've always been 
 
 🤝 Let's Connect!
 
-📧 Email: tamika.ross.xu@gmail.com
 
 
 Fun Fact
