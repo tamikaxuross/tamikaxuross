@@ -7,8 +7,6 @@ Welcome to my digital playground! I'm a full-stack software engineer on a missio
 📖 Transitioning from education to tech with a unique perspective
 🌈 Believer in the power of technology to create positive change
 
-🚀 My Journey
-From teaching middle school to coding full-stack applications, I've always been driven by a passion for learning and making a difference. My background in education gives me a unique approach to problem-solving and collaboration in the tech world.
 
 🌈 What Drives Me
 
